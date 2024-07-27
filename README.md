@@ -5,3 +5,5 @@
 # Objetivo do Projeto 
 
 ## Migrar a infraestrutura de TI da Empresa X para a nuvem, implementando uma solução escalável e segura que suporte o crescimento futuro e melhore a experiência do cliente. O grupo deve montar um diagrama de como ficaria a estrutura da AWS
+
+![351905030-d1dee4c9-05cd-40b0-957c-bc44e60211ae](https://github.com/user-attachments/assets/aa596c11-d808-4bc1-a120-9c9ec8cf4a94)
